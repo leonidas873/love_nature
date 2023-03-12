@@ -1,0 +1,20 @@
+.header-wrapper{
+    position:absolute;
+    width:100%;
+    z-index:12;
+}
+
+
+.header{
+    background-color:#a9a3a388;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    max-width:1200px;
+    margin:auto;
+    
+}
+
+.nav__link.active{
+    color:red;
+}

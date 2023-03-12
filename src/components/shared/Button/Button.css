@@ -1,0 +1,16 @@
+.main-button{
+    outline:none;
+    border:none;
+    cursor:pointer;
+    font-size:14px;
+    padding:17px 40px;
+    background-color: var(--global-color-0);
+    color: var(--global-color-2);
+    transition:0.2s;
+    border-radius:4px;
+    box-sizing:border-box;
+}
+
+.main-button:hover{
+    background-color: var(--global-color-1);
+}
