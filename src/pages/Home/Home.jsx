@@ -1,11 +1,28 @@
 import Hero from "../../components/HomeComponents/Hero/Hero";
 import OurServices from "../../components/HomeComponents/OurServices/OurServices";
+import { service1 } from "../../images";
+import Qoutes from "../../components/HomeComponents/Qoutes/Qoutes";
+import Aboutus from "../../components/HomeComponents/Aboutus/Aboutus";
+import Lastsection from "../../components/HomeComponents/Lastsection/Lastsection";
 
 function Home() {
   return (
     <div>
-      <Hero />
-      <OurServices />
+      <Hero text="we all love" levana="nature" />
+      <OurServices
+        tittle2="Content Creation
+      "
+        tittle1="Graphic Design
+      "
+        tittle="Web Design"
+        img={service1}
+        text="Focus on how you can help and benefit your user. Use simple words so that you don't confuse people.
+
+"
+      />
+      <Qoutes />
+      <Aboutus />
+      <Lastsection />
     </div>
   );
 }

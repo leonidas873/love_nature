@@ -1,0 +1,27 @@
+.Aboutus{
+    max-width: 1400px;
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px;
+}
+.Aboutus__left{
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+}
+.Aboutus__title{
+    font-size: 10px;
+    margin-bottom:20px ;
+}
+.Aboutus__text{
+    font-size: 40px;
+    color: #536942;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.Aboutus__text1{
+    font-size: 20px;
+    color: #536942;
+}

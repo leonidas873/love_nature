@@ -1,18 +1,29 @@
 import { headerHomeImage } from "../../../images";
 import Button from "../../shared/Button/Button";
+import PropTypes from "prop-types";
 import "./Hero.css";
 
-function Hero() {
+function Hero({ text, levana }) {
   return (
     <div className="hero">
       <img src={headerHomeImage} alt="" className="hero__background" />
       <div className="hero__content">
-        <h2>we all love nature</h2>
-        <p>Look deep into nature and you owill understand everything better</p>
-        <Button text="asda" />
+        <h2 className="Hero__we_all">
+          {text}
+          <span>{levana}</span>
+        </h2>
+        <p className="Hero__look">
+          Look deep into nature and you will understand everything better
+        </p>
+        <div className="Hero__button">
+          <Button text="Get Started" />
+        </div>
       </div>
     </div>
   );
 }
-
+Hero.propTypes = {
+  text: PropTypes.string.isRequired,
+  levana: PropTypes.string.isRequired,
+};
 export default Hero;

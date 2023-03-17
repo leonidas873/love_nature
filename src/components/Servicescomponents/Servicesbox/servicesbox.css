@@ -1,0 +1,46 @@
+.Servicesbox{
+    margin: 0 auto;
+    max-width: 1400px;
+    padding: 0 10px;
+    
+}
+.Servicebpx__parent{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    gap: 40px;
+}
+.Servicesbox__child{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.Servicebox__textbox{
+    max-width: 500px;
+}
+.Servicebox__tittle{
+    font-size: 30px;
+    color: rgb(19, 66, 19);
+    margin-bottom: 30px;
+}
+.Servicesbox__text{
+    font-size: 17px;
+    color: rgb(19, 66, 19);
+    margin-bottom: 30px;
+}
+.Servicesbox__price{
+    font-size: 30px;
+    color: rgb(19, 66, 19);
+    margin-bottom: 30px;
+}
+.Servicesbox__img{
+    width: 100%;
+    object-fit: cover;
+}
+.Servicebpx--img--parent{
+    max-width: 600px;
+}
