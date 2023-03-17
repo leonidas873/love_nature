@@ -18,7 +18,9 @@ function Aboutus() {
         </p>
         <Seccondarybutt text="Find Out More" />
       </div>
-      <img src={leaf} alt="" className="leaf__img" />
+      <div className="leaf">
+        <img src={leaf} alt="" className="leaf__img" />
+      </div>
     </div>
   );
 }

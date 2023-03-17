@@ -25,3 +25,20 @@ max-width: 950px;
     text-align: center;
     color: grey;
 }
+@media(max-width:481px){
+    .Qoutes__text{
+   
+        font-size: 20px;
+   
+    }
+    .Qoutes__jane{
+
+        font-size: 15px;
+ 
+    }
+    .Qoutes__avatar{
+       
+        width: 10%;
+        
+    }
+}

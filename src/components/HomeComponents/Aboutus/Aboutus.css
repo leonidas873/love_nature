@@ -5,6 +5,7 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 100px;
+    padding: 0 10px;
 }
 .Aboutus__left{
     display: flex;
@@ -24,4 +25,10 @@
 .Aboutus__text1{
     font-size: 20px;
     color: #536942;
+}
+.leaf__img{
+    width: 100%;
+}
+.leaf{
+ max-width: 500px;
 }
