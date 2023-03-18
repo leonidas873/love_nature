@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/love_nature/static/css/main.7f4a3e09.css",
+    "main.js": "/love_nature/static/js/main.885a5f80.js",
+    "static/js/787.c68a21a6.chunk.js": "/love_nature/static/js/787.c68a21a6.chunk.js",
+    "static/media/header-services.jpg": "/love_nature/static/media/header-services.021f3477119546623d16.jpg",
+    "static/media/header-home.jpg": "/love_nature/static/media/header-home.3a231abed4d6044497ad.jpg",
+    "static/media/header-about.jpg": "/love_nature/static/media/header-about.82362aa2548687cc8a9c.jpg",
+    "static/media/header-contact.jpg": "/love_nature/static/media/header-contact.34f2e8f4f447d4a5c022.jpg",
+    "static/media/contact-hero.jpg": "/love_nature/static/media/contact-hero.d6175ef3079abd5480c4.jpg",
+    "static/media/service-2-graphic.jpg": "/love_nature/static/media/service-2-graphic.5c8c66fde3f5c5ffd3ed.jpg",
+    "static/media/service-1-web.jpg": "/love_nature/static/media/service-1-web.2cc07404e3341bbca3a5.jpg",
+    "static/media/service-1.jpg": "/love_nature/static/media/service-1.2cc07404e3341bbca3a5.jpg",
+    "static/media/service-3-content.jpg": "/love_nature/static/media/service-3-content.dd5cd7d7b029bce296bd.jpg",
+    "static/media/avatar_1.jpg": "/love_nature/static/media/avatar_1.d6c2b26ae73e921d9af7.jpg",
+    "static/media/avatar_2.jpg": "/love_nature/static/media/avatar_2.419c0a8d0329a9c3e9e9.jpg",
+    "static/media/avatar_3.jpg": "/love_nature/static/media/avatar_3.3b4bf36eb2f927df9e74.jpg",
+    "static/media/leaf.jpg": "/love_nature/static/media/leaf.e8190d4c9d529e4fe7c4.jpg",
+    "static/media/avatar_4.jpg": "/love_nature/static/media/avatar_4.85147810eecd98f1c60c.jpg",
+    "static/media/avatar_on_about.png": "/love_nature/static/media/avatar_on_about.db7d0f21fb1e801f16d9.png",
+    "static/media/logo-white.svg": "/love_nature/static/media/logo-white.9b925616d330ad5afb0374646b60b49c.svg",
+    "index.html": "/love_nature/index.html",
+    "main.7f4a3e09.css.map": "/love_nature/static/css/main.7f4a3e09.css.map",
+    "main.885a5f80.js.map": "/love_nature/static/js/main.885a5f80.js.map",
+    "787.c68a21a6.chunk.js.map": "/love_nature/static/js/787.c68a21a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f4a3e09.css",
+    "static/js/main.885a5f80.js"
+  ]
+}
