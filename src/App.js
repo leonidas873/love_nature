@@ -8,14 +8,14 @@ import Contact from "./pages/Contact/Contact";
 function App() {
   return (
     <HashRouter>
-      <MainLayout>
-        <Routes>
+      <Routes>
+        <MainLayout>
           <Route path="/" element={<Home />} index></Route>
           <Route path="/about" element={<About />}></Route>
           <Route path="/services" element={<Services />}></Route>
           <Route path="/contact" element={<Contact />}></Route>
-        </Routes>
-      </MainLayout>
+        </MainLayout>
+      </Routes>
     </HashRouter>
   );
 }
