@@ -9,6 +9,7 @@
     transition:0.2s;
     border-radius:4px;
     box-sizing:border-box;
+    margin-bottom: 100px;
 }
 
 .main-button:hover{
