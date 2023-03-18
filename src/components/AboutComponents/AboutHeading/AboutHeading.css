@@ -7,7 +7,7 @@
  
     max-width: 650px;
     font-size: 30px;
-    color: rgb(39, 83, 39);
+    color:var(--global-color-2);
     margin: 50px auto;
 }
 .Aboutheading__box{
@@ -34,20 +34,20 @@
 }
 .Aboutheading__title{
     font-size: 22px;
-    color: rgb(17, 77, 17);
+    color:var(--global-color-2);
     margin-bottom: 20px;
     margin-top: 20px;
 }
 .Aboutheading__tittle_text{
     font-size: 18px;
-    color: rgb(17, 77, 17);
+    color:var(--global-color-2);
     margin-bottom: 20px;
     margin-top: 20px;
 }
 .Aboutheading__lastsect{
     width: 100%;
     margin: 30px auto;
-    background-color: rgb(247, 244, 244);
+    background-color: var(--global-color-4);
     padding: 40px;
     box-sizing: border-box;
     display: flex;
