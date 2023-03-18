@@ -19,7 +19,7 @@
 .last__we_all {
   font-size: 50px;
   text-align: center;
-  color: rgb(7, 63, 29);
+  color: var(--global-color-2);
   margin-bottom: 20px;
 }
 

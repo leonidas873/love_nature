@@ -11,7 +11,7 @@
 max-width: 950px;
     font-size: 40px;
     margin: 0 auto;
-    color: #536942;
+    color: var(--global-color-2);
 }
 .Qoutes__avatar{
     display: block;

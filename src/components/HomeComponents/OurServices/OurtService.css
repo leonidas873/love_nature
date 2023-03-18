@@ -7,10 +7,10 @@
 }
 .Ourservices__text__main{
     font-size: 40px;
-    color: rgb(11, 48, 11);
+    color: var(--global-color-2);
 }
 .Ourservices__border{
-    border: 2px solid rgb(230, 230, 8);
+    border: 2px solid var(--global-color-0);
     width: 100px;
     margin-top: 20px;
     margin-bottom: 60px;
@@ -33,10 +33,10 @@
 .Ourserv0ces__title{
     margin-top: 20px;
     font-size: 25px;
-    color: rgb(20, 63, 20);
+    color: var(--global-color-2);
 }
 .Ourservices__text{
     font-size: 18px;
     max-width: 350px;
-    color: rgb(20, 63, 20);
+    color: var(--global-color-2);
 }

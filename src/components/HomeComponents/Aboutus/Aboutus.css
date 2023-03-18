@@ -18,13 +18,13 @@
 }
 .Aboutus__text{
     font-size: 40px;
-    color: #536942;
+    color: var(--global-color-2);
     font-weight: 400;
     margin-bottom: 40px;
 }
 .Aboutus__text1{
     font-size: 20px;
-    color: #536942;
+    color: var(--global-color-2);
 }
 .leaf__img{
     width: 100%;
