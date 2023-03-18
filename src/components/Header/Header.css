@@ -6,15 +6,95 @@
 
 
 .header{
-    background-color:#a9a3a388;
     display:flex;
     justify-content:space-between;
     align-items: center;
     max-width:1200px;
     margin:auto;
-    
+    padding: 0 20px;
+    min-height: 102.2px;
 }
 
+.header img{
+    max-width: 60px;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 0 16px;
+    color: white;
+}
+
+
+nav a:last-child{
+    border: 1px solid white;
+    padding: 15px 25px;
+    border-radius: 4px;
+}
+
+
+
+.burgermenu{
+    color: white;
+    width: 43.88px;
+    height: 43.88px;
+}
+.burger{
+    font-size: 22px;
+    transform: scale(1,1.2);
+}
+.closeburger{
+    transform: rotate(-45deg);
+    font-size: 32px;
+    color: white;
+    font-weight: 200;
+}
+
+.burgermenu, .closeburger{
+    border-radius: 50px;
+    background: var(--global-color-0);
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.header > div{
+    display: none;
+}
+
+.burgerMenuList{
+    width: 100%;
+    background: var(--global-color-5);
+}
+.burgerMenuList nav{
+    display: flex;
+    flex-direction: column;
+    
+}
+.burgerMenuList .nav__link{
+    color: black;
+    transition: 0.5s all;
+    border-bottom: 1px solid #dddddd;
+    padding: 12.90px 20px;
+    font-size: 14.5px;
+    font-weight: 400;
+}
+.burgerMenuList .nav__link:hover{
+    color: var(--global-color-0);
+}
+
+@media only screen and (max-width: 921px) {
+    .header nav{
+        display: none;
+    }
+    .header >div{
+        display: flex;
+    }
+}
+@media only screen and (min-width: 921px) {
+.burgerMenuList{
+    display: none;
+}
+}
 .nav__link.active{
-    color:red;
+    color:var(--global-color-0);
 }
