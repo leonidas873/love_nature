@@ -8,13 +8,13 @@ import Lastsection from "../../components/HomeComponents/Lastsection/Lastsection
 function Home() {
   return (
     <div>
-      <Hero text="we all love" levana="nature" />
+      <Hero text="we all love" spantext="nature" />
       <OurServices
-        tittle2="Content Creation
+        tittlecontent="Content Creation
       "
-        tittle1="Graphic Design
+        tittlegraphic="Graphic Design
       "
-        tittle="Web Design"
+        tittleweb="Web Design"
         img={service1}
         text="Focus on how you can help and benefit your user. Use simple words so that you don't confuse people.
 
