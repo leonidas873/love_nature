@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/love_nature/static/css/main.7f4a3e09.css",
-    "main.js": "/love_nature/static/js/main.13af4c2a.js",
+    "main.js": "/love_nature/static/js/main.630ad222.js",
     "static/js/787.c68a21a6.chunk.js": "/love_nature/static/js/787.c68a21a6.chunk.js",
     "static/media/header-services.jpg": "/love_nature/static/media/header-services.021f3477119546623d16.jpg",
     "static/media/header-home.jpg": "/love_nature/static/media/header-home.3a231abed4d6044497ad.jpg",
@@ -21,11 +21,11 @@
     "static/media/logo-white.svg": "/love_nature/static/media/logo-white.9b925616d330ad5afb0374646b60b49c.svg",
     "index.html": "/love_nature/index.html",
     "main.7f4a3e09.css.map": "/love_nature/static/css/main.7f4a3e09.css.map",
-    "main.13af4c2a.js.map": "/love_nature/static/js/main.13af4c2a.js.map",
+    "main.630ad222.js.map": "/love_nature/static/js/main.630ad222.js.map",
     "787.c68a21a6.chunk.js.map": "/love_nature/static/js/787.c68a21a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f4a3e09.css",
-    "static/js/main.13af4c2a.js"
+    "static/js/main.630ad222.js"
   ]
 }
