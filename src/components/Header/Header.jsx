@@ -12,7 +12,7 @@ function Header() {
       <div className="header">
         <img src={mainLogo} alt="logo" />
         <nav>
-          <NavLink to="/" className="nav__link">
+          <NavLink to="/love_nature" className="nav__link">
             Home
           </NavLink>
           <NavLink to="/about" className="nav__link">
@@ -45,7 +45,7 @@ function Header() {
           <div>
             {" "}
             <nav>
-              <NavLink to="/" className="nav__link">
+              <NavLink to="/love_nature" className="nav__link">
                 Home
               </NavLink>
               <NavLink to="/about" className="nav__link">

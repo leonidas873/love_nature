@@ -6,7 +6,7 @@ function Footer() {
       <div className="footer">
         <ul>
           <li>
-            <a href="/">Home</a>
+            <a href="/love_nature">Home</a>
           </li>
           <li>
             <a href="/about">About</a>
