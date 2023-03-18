@@ -1,0 +1,73 @@
+.Aboutheading__Aboutus{
+    font-size: 70px;
+    margin-bottom: 70px;
+}
+.Aboutheading__artichle{
+    text-align: center;
+ 
+    max-width: 650px;
+    font-size: 30px;
+    color: rgb(39, 83, 39);
+    margin: 50px auto;
+}
+.Aboutheading__box{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.Aboutheading__img{
+    width: 100%;
+}
+.Aboutheading__textbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.Aboutheadding__titlebox{
+    max-width: 580px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Aboutheading__title{
+    font-size: 22px;
+    color: rgb(17, 77, 17);
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.Aboutheading__tittle_text{
+    font-size: 18px;
+    color: rgb(17, 77, 17);
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.Aboutheading__lastsect{
+    width: 100%;
+    margin: 30px auto;
+    background-color: rgb(247, 244, 244);
+    padding: 40px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Aboutheading__title{
+    text-align: center;
+}
+.Aboutheading__lastsect .Aboutheading__title{
+    margin-top: 50px;
+    max-width: 600px;
+}
+.avatarabout{
+    width: 40%;
+    display: block;
+    margin: 20px auto;
+}
+.emily{
+    font-size: 12px;
+    color: grey;
+}
