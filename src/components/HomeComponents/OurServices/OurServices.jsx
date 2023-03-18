@@ -1,5 +1,5 @@
 function OurServices() {
-  return <div>our services</div>;
+  return <div></div>;
 }
 
 export default OurServices;
